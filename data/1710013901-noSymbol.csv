@@ -1,0 +1,47 @@
+﻿"Population estimates, July 1, by census division, 2016 boundaries 1 2 3 4 5 6"
+"Frequency: Annual"
+"Table: 17-10-0139-01"
+"Release date: 2023-01-11"
+"Geography: Canada, Province or territory, Census division"
+""
+""
+
+"Sex","Both sexes",,,,,,,,,,,,,,,,,,,,,
+"Age group 7","All ages",,,,,,,,,,,,,,,,,,,,,
+"Geography","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022"
+,"Persons",,,,,,,,,,,,,,,,,,,,,
+"Shelburne, Nova Scotia","16,656","16,587","16,456","16,316","16,140","15,900","15,501","15,276","15,044","14,935","14,779","14,581","14,384","14,305","14,145","14,207","14,150","14,032","13,939","13,790","13,830","14,032"
+"Yarmouth, Nova Scotia","27,553","27,493","27,483","27,420","27,113","26,924","26,751","26,455","26,256","26,005","25,768","25,558","25,188","24,871","24,744","24,836","24,867","24,887","24,843","24,802","24,912","25,325"
+"Digby, Nova Scotia","20,071","19,933","19,948","19,802","19,688","19,386","19,053","18,800","18,595","18,465","18,348","18,030","17,802","17,703","17,620","17,589","17,595","17,437","17,452","17,414","17,527","17,892"
+"Queens, Nova Scotia","12,032","11,935","11,818","11,762","11,654","11,456","11,357","11,303","11,219","11,237","11,145","11,080","10,854","10,661","10,556","10,485","10,370","10,339","10,346","10,403","10,431","10,589"
+"Annapolis, Nova Scotia","22,332","22,198","22,116","22,021","22,019","21,859","21,667","21,487","21,296","21,239","21,104","21,023","20,882","20,873","20,819","20,913","21,185","21,352","21,478","21,707","22,079","22,694"
+"Lunenburg, Nova Scotia","48,866","48,726","48,670","48,585","48,478","48,204","48,046","48,058","48,041","48,093","48,237","48,152","47,920","47,700","47,696","47,885","48,045","48,103","48,166","48,504","48,946","49,770"
+"Kings, Nova Scotia","60,418","60,471","60,716","60,891","61,028","61,610","61,430","61,448","61,621","61,792","61,965","61,802","61,582","61,481","61,463","61,705","62,044","62,463","62,667","62,797","63,213","64,479"
+"Hants, Nova Scotia","41,673","41,706","41,835","42,031","42,058","42,340","42,439","42,513","42,701","43,088","43,284","43,422","43,327","43,286","43,257","43,330","43,408","43,540","43,597","43,802","44,004","44,535"
+"Halifax, Nova Scotia","369,250","374,434","378,076","380,727","381,899","384,668","386,421","389,921","393,680","398,376","402,088","404,381","405,609","407,059","408,017","414,008","421,705","429,888","439,817","450,893","459,837","480,523"
+"Colchester, Nova Scotia","50,678","50,944","51,247","51,408","51,393","51,280","51,347","51,562","51,909","51,924","52,117","52,013","51,793","51,482","51,150","51,492","51,414","51,530","51,743","52,010","52,276","53,178"
+"Cumberland, Nova Scotia","33,442","33,285","33,101","32,978","32,862","32,762","32,551","32,430","32,310","32,089","31,942","31,545","31,134","30,898","30,625","30,440","30,399","30,300","30,201","30,180","30,410","30,803"
+"Pictou, Nova Scotia","48,234","48,029","48,081","48,078","47,987","47,617","47,060","46,725","46,700","46,695","46,586","46,252","45,790","45,286","44,739","44,437","44,270","44,123","44,123","44,166","44,486","45,087"
+"Guysborough, Nova Scotia","10,060","9,833","9,688","9,518","9,354","9,219","8,949","8,742","8,589","8,367","8,276","8,206","8,023","7,860","7,729","7,709","7,607","7,484","7,438","7,363","7,388","7,463"
+"Antigonish, Nova Scotia","20,082","19,904","19,690","19,578","19,501","19,332","19,413","19,536","19,705","19,954","20,039","19,925","19,702","19,570","19,559","19,630","19,679","19,743","19,925","20,169","20,275","20,629"
+"Inverness, Nova Scotia","20,445","20,309","20,128","20,029","19,764","19,427","18,909","18,619","18,421","18,438","18,266","18,002","17,747","17,576","17,455","17,480","17,470","17,362","17,347","17,338","17,414","17,616"
+"Richmond, Nova Scotia","10,489","10,316","10,196","10,123","10,050","9,940","9,769","9,685","9,646","9,606","9,437","9,379","9,269","9,147","9,058","9,094","9,100","9,127","9,083","9,075","9,078","9,155"
+"Cape Breton, Nova Scotia","112,046","110,949","110,377","110,407","109,039","108,208","106,818","105,813","105,056","104,463","103,645","103,125","102,263","101,598","100,697","100,367","99,647","99,564","100,999","100,255","97,918","98,808"
+"Victoria, Nova Scotia","8,167","8,127","8,091","7,990","7,899","7,750","7,634","7,524","7,419","7,341","7,248","7,159","7,165","7,189","7,196","7,183","7,153","7,132","7,079","7,023","7,093","7,147"
+
+
+
+
+Footnotes:
+1,"Population estimates based on the Standard Geographical Classification (SGC) 2016 as delineated in the 2016 Census."
+2,"Census division (CD) refers to the general term applying to geographic areas established by provincial or territorial law, which are intermediate geographic areas between the census subdivision and the province or territory. For example, divisions, counties, regional districts, regional municipalities and seven other types of geographic areas are made up of groups of census subdivisions. In Newfoundland and Labrador, Manitoba, Saskatchewan, Alberta, Yukon, Northwest Territories and Nunavut, provincial or territorial law does not provide for these administrative geographic areas. Therefore, CDs have been created by Statistics Canada in cooperation with these provinces or territories (2016 Census Dictionary, catalogue number 98-301-X2016001)."
+3,"Postcensal estimates are based on the latest census counts adjusted for census net undercoverage (including adjusment for incompletely enumerated Indian reserves) and for the estimated population growth that occurred since that census. Intercensal estimates are based on postcensal estimates and census counts adjusted of the censuses preceding and following the considered year."
+4,"Population estimates as of July 1 are final intercensal up to 2015, final postcensal for 2016 to 2020, updated postcensal for 2021 and preliminary postcensal for 2022."
+5,"The population growth, which is used to calculate population estimates of census divisions (table 17100139), is comprised of the components of population growth (table 17100140)."
+6,"This table replaces table 17100084."
+7,"Age on July 1."
+
+
+
+"How to cite: Statistics Canada. Table 17-10-0139-01  Population estimates, July 1, by census division, 2016 boundaries"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710013901
